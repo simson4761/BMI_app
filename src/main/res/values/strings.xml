@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BmiApp</string>
+    <string name="weightInputMetric">weight(kg)</string>
+    <string name="heightInputMetric">height(cm)</string>
+    <string name="weightInputImperial">weight(lbs)</string>
+    <string name="heightInputImperial">height(inch)</string>
+    <string name="button">Button</string>
+    <string name="bmi">BMI :</string>
+    <string name="bmi_output">bmi Output</string>
+    <string name="calculate">Calculate</string>
+</resources>
